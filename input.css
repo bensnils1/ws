@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* basic text settings */
+body {
+   font-family: Lora;
+}
+h1 {
+   font-family: DM Serif Display;
+   font-weight: 700;
+   font-size: x-large;
+}
+h2 {
+   font-family: DM Serif Display;
+   font-weight: 600;
+   font-size: larger;
+}
+h3 {
+   font-family: DM Serif Display;
+   font-weight: 500;
+   font-size: large;
+}
